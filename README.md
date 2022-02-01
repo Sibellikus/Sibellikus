@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sibellikus
 - 👀 I’m interested in algorythmics
-- 🌱 I’m currently learning JS and C#. Python friendly.
+- 🌱 Python lover
 
 
 <!---
