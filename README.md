@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sibellikus
-- 👀 I’m interested in algorythmics
-- 🌱 Python lover
+- 👀 I’m interested
 
 
 <!---
